@@ -1,0 +1,22 @@
+b {
+    color: cornsilk;
+}
+
+h3 {
+    color: white;
+}
+
+body {
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.correcta {
+    border-color: rgb(0, 190, 32);
+}
+
+.incorrecta {
+    border-color: red;
+}
