@@ -63,7 +63,7 @@ const resultados = () => {
         document.getElementById('resultado6').classList.add('incorrecta');
     }
     let r7 = document.getElementById('resultado7').value;
-    let correcta7 = document.getElementById('incognita2').textContent * 7;
+    let correcta7 = document.getElementById('incognita7').textContent * 7;
     if(r7 == correcta7){
         document.getElementById('resultado7').classList.remove('incorrecta');
         document.getElementById('resultado7').classList.add('correcta');
